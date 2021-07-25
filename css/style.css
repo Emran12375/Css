@@ -1,0 +1,176 @@
+.one{
+    background: rgb(3, 3, 3);
+    color: rgb(215, 238, 4);
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+
+}
+.two{
+    background-color: rgb(102, 69, 64);
+    color: turquoise;
+    text-align: center;
+    text-transform: lowercase;
+    font-size: 20px;
+    
+}
+.three{
+    background-color: seagreen;
+    color: snow;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.four{
+    background-color: steelblue;
+    color: rgb(228, 141, 28);
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.five{
+    background-color: yellow;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.six{
+    background-color: sienna;
+    color: skyblue;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.seven{
+    background-color: slategray;
+    color: red;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.eight{
+    background-color: springgreen;
+    color: teal;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.nine{
+    background-color: black;
+    color: crimson;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.ten{
+    background-color: darkorange;
+    color: black;
+    font-style: italic;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.eleven{
+    background-color: brown;
+    color: dodgerblue;
+    font-style: oblique;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.twelve{
+    background-color: black;
+    color: gold;
+    font-style: italic;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.thirteen{
+    
+    color: rgb(31, 187, 179);
+    font-style: oblique;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.fourteen{
+
+    color: green;
+    font-style: initial;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.fifteen{
+    
+    color: orange;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.sixteen{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.seventeen{
+    background-color: rgb(214, 105, 27);
+    color: rgb(128, 78, 78);
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.eighteen{
+    background-color: black;
+    color: cyan;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.nineteen{
+    background-color: rgb(179, 159, 159);
+    color: black;
+    text-align: center;
+    text-transform: none;
+    font-style: italic;
+    font-size: 20px;
+}
+.twenty{
+    background-color: darkslategrey;
+    color: maroon;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.twenty-one{
+    background-color: midnightblue;
+    color: black;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.twenty-two{
+    background-color: red;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.twenty-three{
+    background-color: rgb(17, 82, 202);
+    color: darkorange;
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
+.twenty-four{
+    background-color: darkslategrey;
+    color: rgb(3, 3, 3);
+    text-align: center;
+    text-transform: none;
+    font-size: 20px;
+}
